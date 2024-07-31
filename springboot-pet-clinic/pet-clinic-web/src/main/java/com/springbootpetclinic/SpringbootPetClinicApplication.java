@@ -1,4 +1,4 @@
-package com.skasetty.springbootpetclinic;
+package com.springbootpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
