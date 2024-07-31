@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.skasetty</groupId>
 	<artifactId>springboot-pet-clinic</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
     <packaging>pom</packaging>
     <name>springboot-pet-clinic</name>
 	<description>springboot-pet-clinic</description>
